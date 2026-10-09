@@ -1,0 +1,6 @@
+{
+  "name": "MissedMate AI — Intelligent Conversation Catch-Up Assistant",
+  "description": "Catch up on what matters in unread group chats and team threads. Dual-mode local & Gemini AI analysis extracting summaries, action items, decisions, deadlines, mentions, and blockers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
